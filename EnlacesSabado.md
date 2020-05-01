@@ -14,6 +14,6 @@ Hora | Charla |
 04:00 p. m. |	[Introduccion a Azure IoT hub](https://bit.ly/3bNg8yu)
 05:00 p. m. |	[Power Premium - Servicio exclusivo de power BI para las empresas](https://bit.ly/3bLhGt3)
 06:00 p. m. |	[Azure Information Protection + Azure AD ](https://bit.ly/3eXLwwh)
-07:00 p. m. |	[Azure SQL Managed Instance](https://bit.ly/3aOzKku)
+07:00 p. m. |	[Cognitive services + Synapse analytics](https://bit.ly/3aOzKku)
 
 [Enlaces de sesiones del viernes](EnlacesViernes.md)
