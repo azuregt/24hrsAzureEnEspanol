@@ -1,4 +1,4 @@
-![Header](images/Header.png)
+![Header](../images/Header.png)
 
 # Slides Viernes
 

@@ -21,7 +21,7 @@ Utilizaremos Microsoft Teams para transmitir cada charla.
 
 [Enlaces de sesiones del sabado](EnlacesSabado.md)
 
-[Slides de nuestros Speakers](SlidesSpeakers/README.md)
+[Slides de nuestros Speakers](SlidesSpeakers/readme.md)
 
 # Contacto
 Siguenos en nuestras redes sociales para enterarte de mas eventos:
