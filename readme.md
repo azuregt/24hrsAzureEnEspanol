@@ -21,6 +21,8 @@ Utilizaremos Microsoft Teams para transmitir cada charla.
 
 [Enlaces de sesiones del sabado](EnlacesSabado.md)
 
+[Slides de nuestros Speakers](SlidesSpeakers/README.md)
+
 # Contacto
 Siguenos en nuestras redes sociales para enterarte de mas eventos:
 - [Facebook](https://www.facebook.com/azuregt) 
