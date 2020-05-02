@@ -11,7 +11,7 @@ Hora | Charla |
 01:00 p. m. |	[Fortinet SD-WAN y Microsoft Azure Virtual WAN para simplificar el acceso a Azure y la conectividad entre sucursales](https://bit.ly/3f3QkR0)
 02:00 p. m. |	[La tecnología detrás de la segunda vuelta electoral de Guatemala](https://bit.ly/3cX7ptT)
 03:00 p. m. |	[Construyendo un detector de objetos con Azure Custom Vision .NET SDK](https://bit.ly/2VIuJ8R)
-04:00 p. m. |	[Introduccion a Azure IoT hub](https://bit.ly/3bNg8yu)
+04:00 p. m. |	[Introduccion a Azure IoT hub](https://bit.ly/3aWtMhH)
 05:00 p. m. |	[Power Premium - Servicio exclusivo de power BI para las empresas](https://bit.ly/3bLhGt3)
 06:00 p. m. |	[Azure Information Protection + Azure AD ](https://bit.ly/3eXLwwh)
 07:00 p. m. |	[Cognitive services + Synapse analytics](https://bit.ly/3aOzKku)
