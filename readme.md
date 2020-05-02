@@ -2,7 +2,7 @@
 
 # Acerca del Evento
 
-Este evento online gratuito cuenta con la participacion de speakers de diferentes puntos de Latinoamerica, es una inicitiva de la comunidad [Azure Guatemala](https://www.meetup.com/es-ES/Azure-Guatemala/) y el objetivo es poder compartir con toda la comunidad hispano hablante contenido en español acerca de Azure y todas las tecnologías, ecosistemas y plataformas que lo rodean.
+Este evento online gratuito cuenta con la participacion de speakers de diferentes puntos de Latinoamerica, es una iniciativa de la comunidad [Azure Guatemala](https://www.meetup.com/es-ES/Azure-Guatemala/) y el objetivo es poder compartir con toda la comunidad hispano hablante contenido en nuestro idioma acerca de Azure y todas las tecnologías, ecosistemas y plataformas que lo rodean.
 
 Tendremos 24 charlas diferentes durante 24 horas dividas en 12 horas cada día.
 
