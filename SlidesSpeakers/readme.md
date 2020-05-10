@@ -13,8 +13,8 @@ Carlos Lone |	[Gestionar El Ciclo de Vida de las Aplicaciones de Forma Remota]()
 Hugo Estrada |	[Data Cleansing en Azure DataBricks con Python](Files/Data%20Cleansing%20-%20Hugo%20Estrada.pptx)
 Erick Urriola |	[SAP on Azure](Files/Erick%20Urriola%20-%20SAP%20on%20Azure%20Rev5.0.pptx)
 Yolanda Lopez |	[Estrategias de despliegue de infraestructura en Azure utilizando Terraform]()
-Mabel Geronimo |	[Conversation as a service: Bot Framework Updates](Files/Mabel%20Geronimo%20-%20Conversation%20as%20a%20Service%20-%20Bots%20on%20Azure.pptx)
-Christian Araujo |	[Azure Load Balancers y Scale sets mitos y verdades]()
+Mabel Geronimo |	[Conversation as a service: Bot Framework Updates](Files/Mabel%20Geronimo%20-%20Conversation%20as%20a%20Service%20-%20Bots%20on%20Azure.pdf)
+Christian Araujo |	[Azure Load Balancers y Scale sets mitos y verdades](Files/Azure%20Load%20balancers%20y%20scale%20sets.pptx)
 Javier Villegas |	[Introducción a la Plataforma de Datos de Microsoft Azure]()
 
 # Slides Sabado
